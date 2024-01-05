@@ -1,2 +1,5 @@
 .vs/
 node_modules/
+desktop.ini
+key.json
+settings.json
